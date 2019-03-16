@@ -1,0 +1,5 @@
+thing_name = "prototype-space-status-display"
+root_ca_path = "root-CA.crt"
+certificate_path = "194669e663-certificate.pem.crt"
+private_key_path = "194669e663-private.pem.key"
+cloud_endpoint = "a2xjafr182j7zy-ats.iot.us-west-2.amazonaws.com"
